@@ -6684,6 +6684,7 @@ fips,date,jail_population,reporting_jurisdictions,resident_population,jail_incar
 18067,2020-04-26,363.0,Howard County Sheriffs Office,82544.0,439.8
 18067,2020-04-27,364.0,Howard County Sheriffs Office,82544.0,441.0
 18067,2020-04-28,365.0,Howard County Sheriffs Office,82544.0,442.2
+18067,2020-04-29,360.0,Howard County Sheriffs Office,82544.0,436.1
 18069,2020-03-11,142.0,Huntington County Jail,36520.0,388.8
 18069,2020-04-15,118.0,Huntington County Jail,36520.0,323.1
 18071,2020-01-01,259.0,Jackson County Sheriff'S Department,44231.0,585.6
@@ -6787,6 +6788,7 @@ fips,date,jail_population,reporting_jurisdictions,resident_population,jail_incar
 18071,2020-04-26,151.0,Jackson County Sheriff'S Department,44231.0,341.4
 18071,2020-04-27,157.0,Jackson County Sheriff'S Department,44231.0,355.0
 18071,2020-04-28,151.0,Jackson County Sheriff'S Department,44231.0,341.4
+18071,2020-04-29,152.0,Jackson County Sheriff'S Department,44231.0,343.7
 18073,2020-03-11,77.0,Jasper County Jail,33562.0,229.4
 18073,2020-04-15,65.0,Jasper County Jail,33562.0,193.7
 18075,2020-03-11,92.0,Jay County Jail,20436.0,450.2
@@ -23793,6 +23795,7 @@ fips,date,jail_population,reporting_jurisdictions,resident_population,jail_incar
 31079,2020-04-26,174.0,Hall County Department Of Corrections,61353.0,283.6
 31079,2020-04-27,177.0,Hall County Department Of Corrections,61353.0,288.5
 31079,2020-04-28,174.0,Hall County Department Of Corrections,61353.0,283.6
+31079,2020-04-29,178.0,Hall County Department Of Corrections,61353.0,290.1
 31095,2020-01-01,23.0,Jefferson County Jail,7046.0,326.4
 31095,2020-01-02,24.0,Jefferson County Jail,7046.0,340.6
 31095,2020-01-03,23.0,Jefferson County Jail,7046.0,326.4
@@ -23931,6 +23934,7 @@ fips,date,jail_population,reporting_jurisdictions,resident_population,jail_incar
 31101,2020-04-26,10.0,Keith County Jail,8034.0,124.5
 31101,2020-04-27,10.0,Keith County Jail,8034.0,124.5
 31101,2020-04-28,11.0,Keith County Jail,8034.0,136.9
+31101,2020-04-29,11.0,Keith County Jail,8034.0,136.9
 33001,2020-03-24,64.0,Belknap County Jail & House Of Corr.,61303.0,104.4
 33001,2020-03-25,56.0,Belknap County Jail & House Of Corr.,61303.0,91.3
 33001,2020-03-27,56.0,Belknap County Jail & House Of Corr.,61303.0,91.3
