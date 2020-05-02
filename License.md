@@ -1,4 +1,4 @@
-![Vera Institute of Justice Logo](https://github.com/vera-institute/jail-population-data/blob/master/img/vera-logo.png?raw=true)
+![Vera Institute of Justice Logo](https://github.com/vera-institute/jail-population-data/blob/master/vera-logo.png?raw=true)
 
 Vera Institute of Justice
 
