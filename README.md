@@ -4,16 +4,16 @@
 Public release of jurisdiction-level jail population data (January 1, 2020-present)
 
 ## Project History
-In response to the novel coronavirus, Vera researchers in the In Our Backyards Project have been publishing jail populations. The most recent available data for each jail jurisdiction is presented in a simple table at the Vera Institute of Justice (website)[https://www.vera.org/projects/covid-19-criminal-justice-responses/covid-19-data] along with information on COVID-19 cases. This page provides access to the complete set of jail data since January 1, 2020.  
+In response to the novel coronavirus, Vera researchers in the In Our Backyards Project have been publishing jail populations. The most recent available data for each jail jurisdiction is presented in a simple table at the Vera Institute of Justice [website](https://www.vera.org/projects/covid-19-criminal-justice-responses/covid-19-data) along with information on COVID-19 cases. This page provides access to the complete set of jail data since January 1, 2020.  
 
 For more information about this data, please see a blog by Chris Henrichson and Oliver Hinds, 
-(Use this Data to Hold Your Local Jail Accountable During the Pandemic)[https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic].
+[Use this Data to Hold Your Local Jail Accountable During the Pandemic](https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic).
 
 For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 
-This data is automatically collected and pushed out to this file daily at 8pm Eastern Time. The data is updated on the Vera (website)[https://www.vera.org/projects/covid-19-criminal-justice-responses/covid-19-data] the following morning.   Historical data may change as better information is collected. While Vera researchers conduct data quality assurance, users should seek to verify of any dramatic single day change they observe in data.  (Please also send information regarding potential errors to jkangbrown@vera.org) 
+This data is automatically collected and pushed out to this file daily at 8pm Eastern Time. The data is updated on the Vera [website](https://www.vera.org/projects/covid-19-criminal-justice-responses/covid-19-data) the following morning.   Historical data may change as better information is collected. While Vera researchers conduct data quality assurance, users should seek to verify of any dramatic single day change they observe in data.  (Please also send information regarding potential errors to jkangbrown@vera.org) 
 
 The data file is available in [CSV](https://github.com/vera-institute/jail-population-data/blob/master/jail_population.csv) format. 
  
