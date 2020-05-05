@@ -32,7 +32,27 @@ The variables included in this data are
 * resident_population: all ages resident population of county for July 1, 2019
 * jail_incarceration_rate_per_100k: rate of jail incarceration per 100,000 residents
 
+## Sourcing
 
+Collecting this data involved the efforts of 
+
+[alphabetical list of names of people (by last name) and organizations (by first initial)]
+
+Darby Aono,
+Collin Blinder,
+Jasmine Heiss,
+Christian Henrichson,
+Oliver Hinds,
+Indiana Public Defender Council,
+Jacob Kang-Brown,
+Sarah Minion, 
+Clay Mosher,
+Jack Norton,
+[NYU Public Safety Lab](https://publicsafetylab.org/),
+Michelle Parris, 
+Eital Schattner-Elmaleh,
+Maurice Smith, 
+James Wallace-Lee
 
 ## License
 
