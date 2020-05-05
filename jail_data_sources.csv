@@ -109,7 +109,6 @@ fips,county,state,source_type
 06079,San Luis Obispo,California,state
 06081,San Mateo,California,state
 06083,Santa Barbara,California,jdi/state
-06085,Santa Clara,California,state
 06085,Santa Clara,California,auto/manual/state
 06087,Santa Cruz,California,auto/state
 06089,Shasta,California,auto/jdi/state
@@ -235,8 +234,7 @@ fips,county,state,source_type
 13057,Cherokee,Georgia,state
 13059,Clarke,Georgia,state
 13061,Clay,Georgia,state
-13063,Clayton,Georgia,auto/state
-13063,Clayton,Georgia,jdi/state
+13063,Clayton,Georgia,auto/jdi/state
 13065,Clinch,Georgia,state
 13067,Cobb,Georgia,state
 13069,Coffee,Georgia,state
@@ -266,7 +264,6 @@ fips,county,state,source_type
 13117,Forsyth,Georgia,auto/jdi/state
 13119,Franklin,Georgia,state
 13121,Fulton,Georgia,jdi/state
-13121,Fulton,Georgia,state
 13123,Gilmer,Georgia,auto/jdi/state
 13125,Glascock,Georgia,state
 13127,Glynn,Georgia,state
@@ -327,7 +324,6 @@ fips,county,state,source_type
 13239,Quitman,Georgia,state
 13241,Rabun,Georgia,jdi/state
 13243,Randolph,Georgia,state
-13245,Richmond,Georgia,state
 13245,Richmond,Georgia,jdi/state
 13247,Rockdale,Georgia,state
 13249,Schley,Georgia,state
@@ -351,7 +347,6 @@ fips,county,state,source_type
 13285,Troup,Georgia,state
 13287,Turner,Georgia,auto/jdi/state
 13289,Twiggs,Georgia,state
-13291,Union,Georgia,state
 13291,Union,Georgia,jdi/state
 13293,Upson,Georgia,jdi/state
 13295,Walker,Georgia,state
@@ -470,8 +465,7 @@ fips,county,state,source_type
 18135,Randolph,Indiana,manual
 18137,Ripley,Indiana,manual
 18139,Rush,Indiana,manual
-18141,St. Joseph,Indiana,manual
-18141,St. Joseph,Indiana,auto/jdi
+18141,St. Joseph,Indiana,auto/jdi/manual
 18143,Scott,Indiana,auto/manual
 18145,Shelby,Indiana,auto/manual
 18147,Spencer,Indiana,manual
@@ -482,8 +476,7 @@ fips,county,state,source_type
 18157,Tippecanoe,Indiana,jdi/manual
 18159,Tipton,Indiana,manual
 18161,Union,Indiana,manual
-18163,Vanderburgh,Indiana,manual
-18163,Vanderburgh,Indiana,jdi
+18163,Vanderburgh,Indiana,jdi/manual
 18165,Vermillion,Indiana,manual
 18167,Vigo,Indiana,auto/manual
 18169,Wabash,Indiana,manual
@@ -586,8 +579,7 @@ fips,county,state,source_type
 21129,Lee,Kentucky,auto/jdi/state
 21131,Leslie,Kentucky,auto/jdi/state
 21133,Letcher,Kentucky,auto/jdi/state
-21135,Lewis,Kentucky,auto/state
-21135,Lewis,Kentucky,jdi/state
+21135,Lewis,Kentucky,auto/jdi/state
 21137,Lincoln,Kentucky,auto/jdi/state
 21141,Logan,Kentucky,auto/jdi/state
 21145,Mccracken,Kentucky,auto/jdi/state
@@ -620,8 +612,7 @@ fips,county,state,source_type
 21235,Whitley,Kentucky,auto/jdi/state
 21239,Woodford,Kentucky,auto/jdi/state
 22001,Acadia,Louisiana,auto/jdi
-22003,Allen,Louisiana,auto
-22003,Allen,Louisiana,jdi
+22003,Allen,Louisiana,auto/jdi
 22005,Ascension,Louisiana,auto
 22007,Assumption,Louisiana,auto/jdi
 22009,Avoyelles,Louisiana,auto/jdi
@@ -629,19 +620,15 @@ fips,county,state,source_type
 22013,Bienville,Louisiana,auto/jdi
 22015,Bossier,Louisiana,auto/jdi
 22017,Caddo,Louisiana,auto/jdi
-22017,Caddo,Louisiana,jdi
-22019,Calcasieu,Louisiana,auto
-22019,Calcasieu,Louisiana,jdi
+22019,Calcasieu,Louisiana,auto/jdi
 22021,Caldwell,Louisiana,auto/jdi
 22023,Cameron,Louisiana,auto/jdi
-22025,Catahoula,Louisiana,jdi
-22025,Catahoula,Louisiana,auto
+22025,Catahoula,Louisiana,auto/jdi
 22027,Claiborne,Louisiana,auto/jdi
 22029,Concordia,Louisiana,auto/jdi
 22031,De Soto,Louisiana,auto
 22033,East Baton Rouge,Louisiana,auto
 22037,East Feliciana,Louisiana,auto/jdi
-22039,Evangeline,Louisiana,jdi
 22039,Evangeline,Louisiana,jdi
 22041,Franklin,Louisiana,auto/jdi
 22045,Iberia,Louisiana,auto/jdi
@@ -649,8 +636,7 @@ fips,county,state,source_type
 22049,Jackson,Louisiana,auto/jdi
 22051,Jefferson,Louisiana,auto
 22053,Jefferson Davis,Louisiana,auto/jdi
-22055,Lafayette,Louisiana,jdi
-22055,Lafayette,Louisiana,auto
+22055,Lafayette,Louisiana,auto/jdi
 22057,Lafourche,Louisiana,auto
 22059,La Salle,Louisiana,auto/jdi
 22061,Lincoln,Louisiana,auto/jdi
@@ -674,21 +660,17 @@ fips,county,state,source_type
 22099,St. Martin,Louisiana,auto/jdi
 22101,St. Mary,Louisiana,auto/jdi
 22103,St. Tammany,Louisiana,auto
-22105,Tangipahoa,Louisiana,jdi
 22105,Tangipahoa,Louisiana,auto/jdi
 22107,Tensas,Louisiana,auto/jdi
 22109,Terrebonne,Louisiana,jdi
 22113,Vermilion,Louisiana,auto/jdi
-22115,Vernon,Louisiana,jdi
 22115,Vernon,Louisiana,auto/jdi
-22117,Washington,Louisiana,jdi
 22117,Washington,Louisiana,auto/jdi
 22119,Webster,Louisiana,auto/jdi
 22121,West Baton Rouge,Louisiana,auto/jdi
 22123,West Carroll,Louisiana,auto/jdi
 22125,West Feliciana,Louisiana,auto/jdi
 22127,Winn,Louisiana,auto/jdi
-22127,Winn,Louisiana,jdi
 23005,Cumberland,Maine,jdi
 23019,Penobscot,Maine,jdi
 24001,Allegany,Maryland,jdi
@@ -792,7 +774,6 @@ fips,county,state,source_type
 29089,Howard,Missouri,auto/jdi
 29095,Jackson,Missouri,auto/jdi
 29097,Jasper,Missouri,jdi
-29097,Jasper,Missouri,jdi
 29101,Johnson,Missouri,auto/jdi
 29109,Lawrence,Missouri,auto/jdi
 29111,Lewis,Missouri,jdi
@@ -833,7 +814,6 @@ fips,county,state,source_type
 31111,Lincoln,Nebraska,jdi
 31153,Sarpy,Nebraska,jdi
 32003,Clark,Nevada,jdi
-32003,Clark,Nevada,jdi
 33001,Belknap,New Hampshire,auto/jdi
 33005,Cheshire,New Hampshire,jdi
 34003,Bergen,New Jersey,auto/jdi
@@ -848,7 +828,6 @@ fips,county,state,source_type
 35001,Bernalillo,New Mexico,jdi
 35009,Curry,New Mexico,jdi
 35015,Eddy,New Mexico,auto/jdi
-35025,Lea,New Mexico,jdi
 35025,Lea,New Mexico,jdi
 35029,Luna,New Mexico,jdi
 35043,Sandoval,New Mexico,jdi
@@ -1063,7 +1042,6 @@ fips,county,state,source_type
 42125,Washington,Pennsylvania,manual
 45003,Aiken,South Carolina,jdi
 45007,Anderson,South Carolina,auto/jdi
-45007,Anderson,South Carolina,jdi
 45013,Beaufort,South Carolina,auto/jdi
 45015,Berkeley,South Carolina,auto/jdi
 45021,Cherokee,South Carolina,auto/jdi
@@ -1105,7 +1083,6 @@ fips,county,state,source_type
 47033,Crockett,Tennessee,state
 47035,Cumberland,Tennessee,state
 47037,Davidson,Tennessee,state
-47037,Davidson,Tennessee,state
 47039,Decatur,Tennessee,state
 47041,Dekalb,Tennessee,state
 47043,Dickson,Tennessee,state
@@ -1120,7 +1097,6 @@ fips,county,state,source_type
 47061,Grundy,Tennessee,state
 47063,Hamblen,Tennessee,auto/state
 47065,Hamilton,Tennessee,auto/jdi/state
-47065,Hamilton,Tennessee,state
 47067,Hancock,Tennessee,state
 47069,Hardeman,Tennessee,state
 47071,Hardin,Tennessee,state
@@ -1178,7 +1154,6 @@ fips,county,state,source_type
 47175,Van Buren,Tennessee,state
 47177,Warren,Tennessee,state
 47179,Washington,Tennessee,state
-47179,Washington,Tennessee,state
 47181,Wayne,Tennessee,jdi/state
 47183,Weakley,Tennessee,state
 47185,White,Tennessee,state
@@ -1207,7 +1182,6 @@ fips,county,state,source_type
 48041,Brazos,Texas,state
 48043,Brewster,Texas,state
 48045,Briscoe,Texas,state
-48047,Brooks,Texas,state
 48047,Brooks,Texas,state
 48049,Brown,Texas,auto/jdi/state
 48051,Burleson,Texas,state
@@ -1241,7 +1215,6 @@ fips,county,state,source_type
 48107,Crosby,Texas,state
 48109,Culberson,Texas,state
 48111,Dallam,Texas,state
-48113,Dallas,Texas,state
 48113,Dallas,Texas,jdi/state
 48115,Dawson,Texas,state
 48117,Deaf Smith,Texas,state
@@ -1249,12 +1222,10 @@ fips,county,state,source_type
 48121,Denton,Texas,state
 48123,Dewitt,Texas,jdi/state
 48125,Dickens,Texas,state
-48125,Dickens,Texas,state
 48127,Dimmit,Texas,state
 48129,Donley,Texas,state
 48131,Duval,Texas,state
 48133,Eastland,Texas,state
-48135,Ector,Texas,state
 48135,Ector,Texas,state
 48137,Edwards,Texas,jdi/state
 48139,Ellis,Texas,jdi/state
@@ -1288,8 +1259,7 @@ fips,county,state,source_type
 48195,Hansford,Texas,state
 48197,Hardeman,Texas,state
 48199,Hardin,Texas,state
-48201,Harris,Texas,jdi/state
-48201,Harris,Texas,auto/state
+48201,Harris,Texas,auto/jdi/state
 48203,Harrison,Texas,state
 48205,Hartley,Texas,state
 48207,Haskell,Texas,state
@@ -1311,7 +1281,6 @@ fips,county,state,source_type
 48239,Jackson,Texas,state
 48241,Jasper,Texas,state
 48243,Jeff Davis,Texas,state
-48245,Jefferson,Texas,state
 48245,Jefferson,Texas,state
 48247,Jim Hogg,Texas,state
 48249,Jim Wells,Texas,jdi/state
@@ -1337,7 +1306,6 @@ fips,county,state,source_type
 48289,Leon,Texas,state
 48291,Liberty,Texas,auto/jdi/state
 48293,Limestone,Texas,state
-48293,Limestone,Texas,state
 48295,Lipscomb,Texas,state
 48297,Live Oak,Texas,state
 48299,Llano,Texas,state
@@ -1345,7 +1313,6 @@ fips,county,state,source_type
 48303,Lubbock,Texas,jdi/state
 48305,Lynn,Texas,state
 48307,Mcculloch,Texas,state
-48309,Mclennan,Texas,state
 48309,Mclennan,Texas,state
 48311,Mcmullen,Texas,state
 48313,Madison,Texas,state
@@ -1368,7 +1335,6 @@ fips,county,state,source_type
 48347,Nacogdoches,Texas,state
 48349,Navarro,Texas,state
 48351,Newton,Texas,state
-48351,Newton,Texas,state
 48353,Nolan,Texas,state
 48355,Nueces,Texas,state
 48357,Ochiltree,Texas,auto/state
@@ -1380,7 +1346,6 @@ fips,county,state,source_type
 48369,Parmer,Texas,jdi/state
 48371,Pecos,Texas,state
 48373,Polk,Texas,jdi/state
-48373,Polk,Texas,state
 48375,Potter,Texas,jdi/state
 48377,Presidio,Texas,state
 48379,Rains,Texas,state
@@ -1464,7 +1429,6 @@ fips,county,state,source_type
 51087,Henrico,Virginia,jdi
 51119,Middlesex,Virginia,auto/jdi
 51159,Richmond,Virginia,auto
-51161,Roanoke,Virginia,jdi
 51161,Roanoke,Virginia,auto/jdi
 51163,Rockbridge,Virginia,auto
 51187,Warren,Virginia,auto
@@ -1487,13 +1451,9 @@ fips,county,state,source_type
 53021,Franklin,Washington,jdi
 53025,Grant,Washington,jdi
 53027,Grays Harbor,Washington,jdi
-53027,Grays Harbor,Washington,jdi
-53027,Grays Harbor,Washington,jdi
 53029,Island,Washington,auto/jdi
 53031,Jefferson,Washington,jdi
-53033,King,Washington,auto
-53033,King,Washington,jdi
-53033,King,Washington,jdi
+53033,King,Washington,auto/jdi
 53035,Kitsap,Washington,jdi
 53037,Kittitas,Washington,jdi
 53041,Lewis,Washington,jdi
@@ -1502,18 +1462,14 @@ fips,county,state,source_type
 53047,Okanogan,Washington,jdi
 53049,Pacific,Washington,jdi
 53053,Pierce,Washington,jdi
-53053,Pierce,Washington,jdi
 53057,Skagit,Washington,jdi
 53059,Skamania,Washington,jdi
 53061,Snohomish,Washington,auto/jdi
 53063,Spokane,Washington,auto/manual
 53067,Thurston,Washington,jdi
-53067,Thurston,Washington,jdi
 53071,Walla Walla,Washington,auto/jdi
 53073,Whatcom,Washington,auto/jdi
 53075,Whitman,Washington,jdi
-53077,Yakima,Washington,jdi
-53077,Yakima,Washington,jdi
 53077,Yakima,Washington,jdi
 55005,Barron,Wisconsin,jdi
 55009,Brown,Wisconsin,auto/jdi
