@@ -1,0 +1,1543 @@
+fips,county,state,source_type
+01001,Autauga,Alabama,auto/jdi
+01003,Baldwin,Alabama,auto/jdi
+01009,Blount,Alabama,jdi
+01017,Chambers,Alabama,jdi
+01019,Cherokee,Alabama,auto/jdi
+01023,Choctaw,Alabama,jdi
+01027,Clay,Alabama,jdi
+01029,Cleburne,Alabama,jdi
+01031,Coffee,Alabama,jdi
+01033,Colbert,Alabama,jdi
+01037,Coosa,Alabama,jdi
+01045,Dale,Alabama,auto/jdi
+01049,Dekalb,Alabama,auto/jdi
+01055,Etowah,Alabama,auto
+01057,Fayette,Alabama,auto/jdi
+01059,Franklin,Alabama,auto/jdi
+01069,Houston,Alabama,jdi
+01071,Jackson,Alabama,auto/jdi
+01073,Jefferson,Alabama,auto
+01093,Marion,Alabama,auto/jdi
+01095,Marshall,Alabama,jdi
+01097,Mobile,Alabama,jdi
+01103,Morgan,Alabama,auto/jdi
+01107,Pickens,Alabama,auto/jdi
+01109,Pike,Alabama,auto/jdi
+01111,Randolph,Alabama,jdi
+01115,St. Clair,Alabama,jdi
+01117,Shelby,Alabama,jdi
+01121,Talladega,Alabama,jdi
+01129,Washington,Alabama,jdi
+04001,Apache,Arizona,jdi
+04003,Cochise,Arizona,jdi
+04009,Graham,Arizona,jdi
+04015,Mohave,Arizona,jdi
+04017,Navajo,Arizona,jdi
+04025,Yavapai,Arizona,jdi
+04027,Yuma,Arizona,auto/jdi
+05005,Baxter,Arkansas,auto/jdi
+05007,Benton,Arkansas,jdi
+05009,Boone,Arkansas,auto/jdi
+05027,Columbia,Arkansas,auto/jdi
+05031,Craighead,Arkansas,auto/jdi
+05033,Crawford,Arkansas,jdi
+05035,Crittenden,Arkansas,jdi
+05037,Cross,Arkansas,auto/jdi
+05043,Drew,Arkansas,jdi
+05045,Faulkner,Arkansas,auto/jdi
+05047,Franklin,Arkansas,jdi
+05057,Hempstead,Arkansas,auto/jdi
+05061,Howard,Arkansas,jdi
+05063,Independence,Arkansas,jdi
+05069,Jefferson,Arkansas,auto/jdi
+05071,Johnson,Arkansas,auto/jdi
+05085,Lonoke,Arkansas,auto/jdi
+05087,Madison,Arkansas,jdi
+05089,Marion,Arkansas,auto/jdi
+05095,Monroe,Arkansas,auto/jdi
+05099,Nevada,Arkansas,auto/jdi
+05103,Ouachita,Arkansas,jdi
+05111,Poinsett,Arkansas,auto/jdi
+05115,Pope,Arkansas,jdi
+05123,St. Francis,Arkansas,auto/jdi
+05125,Saline,Arkansas,auto/jdi
+05129,Searcy,Arkansas,jdi
+05137,Stone,Arkansas,auto/jdi
+05139,Union,Arkansas,jdi
+05141,Van Buren,Arkansas,auto/jdi
+05143,Washington,Arkansas,jdi
+05145,White,Arkansas,jdi
+06001,Alameda,California,manual/state
+06005,Amador,California,jdi/state
+06007,Butte,California,state
+06009,Calaveras,California,state
+06011,Colusa,California,state
+06013,Contra Costa,California,state
+06015,Del Norte,California,state
+06017,El Dorado,California,auto/jdi/state
+06019,Fresno,California,auto/state
+06021,Glenn,California,state
+06023,Humboldt,California,state
+06025,Imperial,California,state
+06027,Inyo,California,state
+06029,Kern,California,state
+06031,Kings,California,auto/jdi/state
+06033,Lake,California,jdi/state
+06035,Lassen,California,state
+06037,Los Angeles,California,manual/state
+06039,Madera,California,jdi/state
+06041,Marin,California,auto/jdi/state
+06043,Mariposa,California,state
+06045,Mendocino,California,state
+06047,Merced,California,auto/state
+06049,Modoc,California,state
+06051,Mono,California,state
+06053,Monterey,California,auto/state
+06055,Napa,California,jdi/state
+06057,Nevada,California,jdi/state
+06059,Orange,California,auto/manual/state
+06061,Placer,California,auto/state
+06063,Plumas,California,state
+06065,Riverside,California,auto/manual/state
+06067,Sacramento,California,state
+06069,San Benito,California,state
+06071,San Bernardino,California,state
+06073,San Diego,California,state
+06075,San Francisco,California,manual/state
+06077,San Joaquin,California,state
+06079,San Luis Obispo,California,state
+06081,San Mateo,California,state
+06083,Santa Barbara,California,jdi/state
+06085,Santa Clara,California,state
+06085,Santa Clara,California,auto/manual/state
+06087,Santa Cruz,California,auto/state
+06089,Shasta,California,auto/jdi/state
+06091,Sierra,California,state
+06093,Siskiyou,California,jdi/state
+06095,Solano,California,state
+06097,Sonoma,California,state
+06099,Stanislaus,California,jdi/state
+06101,Sutter,California,state
+06103,Tehama,California,auto/jdi/state
+06105,Trinity,California,state
+06107,Tulare,California,auto/jdi/state
+06109,Tuolumne,California,state
+06111,Ventura,California,state
+06113,Yolo,California,state
+06115,Yuba,California,auto/jdi/state
+08001,Adams,Colorado,jdi
+08005,Arapahoe,Colorado,jdi
+08011,Bent,Colorado,jdi
+08013,Boulder,Colorado,jdi
+08035,Douglas,Colorado,jdi
+08059,Jefferson,Colorado,auto/jdi
+08069,Larimer,Colorado,auto
+08077,Mesa,Colorado,auto/jdi
+08085,Montrose,Colorado,jdi
+08097,Pitkin,Colorado,auto
+08101,Pueblo,Colorado,jdi
+08125,Yuma,Colorado,jdi
+11001,District Of Columbia,District of Columbia,auto
+12001,Alachua,Florida,auto/jdi/state
+12003,Baker,Florida,state
+12005,Bay,Florida,state
+12007,Bradford,Florida,auto/jdi/state
+12009,Brevard,Florida,state
+12011,Broward,Florida,state
+12013,Calhoun,Florida,jdi/state
+12015,Charlotte,Florida,state
+12017,Citrus,Florida,state
+12019,Clay,Florida,auto/jdi/state
+12021,Collier,Florida,state
+12023,Columbia,Florida,auto/state
+12027,Desoto,Florida,jdi/state
+12029,Dixie,Florida,state
+12031,Duval,Florida,state
+12033,Escambia,Florida,auto/jdi/state
+12035,Flagler,Florida,jdi/state
+12037,Franklin,Florida,state
+12039,Gadsden,Florida,auto/state
+12041,Gilchrist,Florida,auto/state
+12043,Glades,Florida,auto/state
+12045,Gulf,Florida,state
+12047,Hamilton,Florida,auto/jdi/state
+12049,Hardee,Florida,state
+12051,Hendry,Florida,auto/state
+12053,Hernando,Florida,state
+12055,Highlands,Florida,jdi/state
+12057,Hillsborough,Florida,state
+12059,Holmes,Florida,state
+12061,Indian River,Florida,state
+12063,Jackson,Florida,state
+12065,Jefferson,Florida,state
+12067,Lafayette,Florida,state
+12069,Lake,Florida,state
+12071,Lee,Florida,state
+12073,Leon,Florida,state
+12075,Levy,Florida,auto/jdi/state
+12077,Liberty,Florida,state
+12079,Madison,Florida,state
+12081,Manatee,Florida,state
+12083,Marion,Florida,state
+12085,Martin,Florida,auto/jdi/state
+12086,Miami-Dade,Florida,manual/state
+12087,Monroe,Florida,jdi/state
+12089,Nassau,Florida,auto/jdi/state
+12091,Okaloosa,Florida,auto/state
+12093,Okeechobee,Florida,auto/state
+12095,Orange,Florida,auto/state
+12097,Osceola,Florida,auto/jdi/state
+12099,Palm Beach,Florida,state
+12101,Pasco,Florida,state
+12103,Pinellas,Florida,state
+12105,Polk,Florida,state
+12107,Putnam,Florida,auto/jdi/state
+12109,St. Johns,Florida,auto/jdi/state
+12111,St. Lucie,Florida,jdi/state
+12113,Santa Rosa,Florida,auto/jdi/state
+12115,Sarasota,Florida,jdi/state
+12117,Seminole,Florida,auto/state
+12119,Sumter,Florida,auto/jdi/state
+12121,Suwannee,Florida,auto/jdi/state
+12123,Taylor,Florida,auto/state
+12125,Union,Florida,state
+12127,Volusia,Florida,auto/state
+12129,Wakulla,Florida,state
+12133,Washington,Florida,state
+13001,Appling,Georgia,state
+13003,Atkinson,Georgia,state
+13005,Bacon,Georgia,state
+13007,Baker,Georgia,state
+13009,Baldwin,Georgia,state
+13011,Banks,Georgia,state
+13013,Barrow,Georgia,auto/state
+13015,Bartow,Georgia,auto/jdi/state
+13017,Ben Hill,Georgia,state
+13019,Berrien,Georgia,auto/jdi/state
+13021,Bibb,Georgia,jdi/state
+13023,Bleckley,Georgia,state
+13025,Brantley,Georgia,jdi/state
+13027,Brooks,Georgia,state
+13029,Bryan,Georgia,state
+13031,Bulloch,Georgia,jdi/state
+13033,Burke,Georgia,jdi/state
+13035,Butts,Georgia,state
+13037,Calhoun,Georgia,state
+13039,Camden,Georgia,auto/jdi/state
+13043,Candler,Georgia,state
+13045,Carroll,Georgia,jdi/state
+13047,Catoosa,Georgia,jdi/state
+13049,Charlton,Georgia,state
+13051,Chatham,Georgia,state
+13053,Chattahoochee,Georgia,state
+13055,Chattooga,Georgia,state
+13057,Cherokee,Georgia,state
+13059,Clarke,Georgia,state
+13061,Clay,Georgia,state
+13063,Clayton,Georgia,auto/state
+13063,Clayton,Georgia,jdi/state
+13065,Clinch,Georgia,state
+13067,Cobb,Georgia,state
+13069,Coffee,Georgia,state
+13071,Colquitt,Georgia,state
+13073,Columbia,Georgia,auto/jdi/state
+13075,Cook,Georgia,state
+13077,Coweta,Georgia,auto/jdi/state
+13079,Crawford,Georgia,state
+13081,Crisp,Georgia,state
+13083,Dade,Georgia,jdi/state
+13085,Dawson,Georgia,jdi/state
+13087,Decatur,Georgia,jdi/state
+13089,Dekalb,Georgia,state
+13091,Dodge,Georgia,jdi/state
+13093,Dooly,Georgia,state
+13095,Dougherty,Georgia,auto/jdi/state
+13097,Douglas,Georgia,auto/jdi/state
+13099,Early,Georgia,state
+13101,Echols,Georgia,state
+13103,Effingham,Georgia,jdi/state
+13105,Elbert,Georgia,jdi/state
+13107,Emanuel,Georgia,state
+13109,Evans,Georgia,state
+13111,Fannin,Georgia,state
+13113,Fayette,Georgia,jdi/state
+13115,Floyd,Georgia,auto/jdi/state
+13117,Forsyth,Georgia,auto/jdi/state
+13119,Franklin,Georgia,state
+13121,Fulton,Georgia,jdi/state
+13121,Fulton,Georgia,state
+13123,Gilmer,Georgia,auto/jdi/state
+13125,Glascock,Georgia,state
+13127,Glynn,Georgia,state
+13129,Gordon,Georgia,auto/jdi/state
+13131,Grady,Georgia,state
+13133,Greene,Georgia,state
+13135,Gwinnett,Georgia,auto/state
+13137,Habersham,Georgia,jdi/state
+13139,Hall,Georgia,state
+13141,Hancock,Georgia,state
+13143,Haralson,Georgia,auto/jdi/state
+13145,Harris,Georgia,state
+13147,Hart,Georgia,state
+13149,Heard,Georgia,state
+13151,Henry,Georgia,state
+13153,Houston,Georgia,jdi/state
+13155,Irwin,Georgia,state
+13157,Jackson,Georgia,auto/jdi/state
+13159,Jasper,Georgia,state
+13161,Jeff Davis,Georgia,state
+13163,Jefferson,Georgia,state
+13165,Jenkins,Georgia,state
+13167,Johnson,Georgia,state
+13169,Jones,Georgia,state
+13171,Lamar,Georgia,jdi/state
+13173,Lanier,Georgia,state
+13175,Laurens,Georgia,jdi/state
+13177,Lee,Georgia,auto/state
+13179,Liberty,Georgia,jdi/state
+13181,Lincoln,Georgia,state
+13183,Long,Georgia,state
+13185,Lowndes,Georgia,state
+13187,Lumpkin,Georgia,auto/jdi/state
+13189,Mcduffie,Georgia,jdi/state
+13191,Mcintosh,Georgia,state
+13193,Macon,Georgia,state
+13195,Madison,Georgia,state
+13197,Marion,Georgia,state
+13199,Meriwether,Georgia,state
+13201,Miller,Georgia,state
+13205,Mitchell,Georgia,state
+13207,Monroe,Georgia,jdi/state
+13209,Montgomery,Georgia,state
+13211,Morgan,Georgia,state
+13213,Murray,Georgia,state
+13215,Muscogee,Georgia,state
+13217,Newton,Georgia,auto/state
+13219,Oconee,Georgia,jdi/state
+13221,Oglethorpe,Georgia,state
+13223,Paulding,Georgia,state
+13225,Peach,Georgia,state
+13227,Pickens,Georgia,auto/jdi/state
+13229,Pierce,Georgia,auto/state
+13231,Pike,Georgia,state
+13233,Polk,Georgia,jdi/state
+13235,Pulaski,Georgia,state
+13237,Putnam,Georgia,state
+13239,Quitman,Georgia,state
+13241,Rabun,Georgia,jdi/state
+13243,Randolph,Georgia,state
+13245,Richmond,Georgia,state
+13245,Richmond,Georgia,jdi/state
+13247,Rockdale,Georgia,state
+13249,Schley,Georgia,state
+13251,Screven,Georgia,state
+13253,Seminole,Georgia,state
+13255,Spalding,Georgia,jdi/state
+13257,Stephens,Georgia,state
+13259,Stewart,Georgia,state
+13261,Sumter,Georgia,jdi/state
+13263,Talbot,Georgia,state
+13265,Taliaferro,Georgia,state
+13267,Tattnall,Georgia,jdi/state
+13269,Taylor,Georgia,state
+13271,Telfair,Georgia,state
+13273,Terrell,Georgia,state
+13275,Thomas,Georgia,state
+13277,Tift,Georgia,auto/jdi/state
+13279,Toombs,Georgia,auto/state
+13281,Towns,Georgia,state
+13283,Treutlen,Georgia,state
+13285,Troup,Georgia,state
+13287,Turner,Georgia,auto/jdi/state
+13289,Twiggs,Georgia,state
+13291,Union,Georgia,state
+13291,Union,Georgia,jdi/state
+13293,Upson,Georgia,jdi/state
+13295,Walker,Georgia,state
+13297,Walton,Georgia,jdi/state
+13299,Ware,Georgia,auto/jdi/state
+13301,Warren,Georgia,state
+13303,Washington,Georgia,jdi/state
+13305,Wayne,Georgia,state
+13307,Webster,Georgia,auto/state
+13309,Wheeler,Georgia,state
+13311,White,Georgia,state
+13313,Whitfield,Georgia,jdi/state
+13315,Wilcox,Georgia,state
+13317,Wilkes,Georgia,state
+13319,Wilkinson,Georgia,state
+13321,Worth,Georgia,jdi/state
+16001,Ada,Idaho,jdi
+16005,Bannock,Idaho,jdi
+16011,Bingham,Idaho,jdi
+16013,Blaine,Idaho,jdi
+16017,Bonner,Idaho,jdi
+16019,Bonneville,Idaho,jdi
+16027,Canyon,Idaho,jdi
+16031,Cassia,Idaho,jdi
+16039,Elmore,Idaho,jdi
+16069,Nez Perce,Idaho,jdi
+16073,Owyhee,Idaho,jdi
+16077,Power,Idaho,jdi
+16083,Twin Falls,Idaho,jdi
+16087,Washington,Idaho,auto/jdi
+17001,Adams,Illinois,jdi
+17029,Coles,Illinois,jdi
+17031,Cook,Illinois,auto/manual
+17033,Crawford,Illinois,jdi
+17041,Douglas,Illinois,jdi
+17089,Kane,Illinois,jdi
+17091,Kankakee,Illinois,auto/jdi
+17093,Kendall,Illinois,jdi
+17111,Mchenry,Illinois,jdi
+17115,Macon,Illinois,jdi
+17139,Moultrie,Illinois,jdi
+17157,Randolph,Illinois,jdi
+17159,Richland,Illinois,jdi
+17163,St. Clair,Illinois,auto/jdi
+17177,Stephenson,Illinois,auto
+17185,Wabash,Illinois,jdi
+17197,Will,Illinois,auto/jdi
+17203,Woodford,Illinois,jdi
+18001,Adams,Indiana,manual
+18003,Allen,Indiana,manual
+18005,Bartholomew,Indiana,manual
+18007,Benton,Indiana,manual
+18009,Blackford,Indiana,manual
+18011,Boone,Indiana,auto/jdi/manual
+18013,Brown,Indiana,manual
+18015,Carroll,Indiana,manual
+18017,Cass,Indiana,manual
+18019,Clark,Indiana,manual
+18021,Clay,Indiana,auto/jdi/manual
+18023,Clinton,Indiana,auto/jdi/manual
+18025,Crawford,Indiana,manual
+18027,Daviess,Indiana,manual
+18029,Dearborn,Indiana,auto/jdi/manual
+18031,Decatur,Indiana,manual
+18033,Dekalb,Indiana,manual
+18035,Delaware,Indiana,jdi/manual
+18037,Dubois,Indiana,auto/manual
+18039,Elkhart,Indiana,manual
+18041,Fayette,Indiana,manual
+18043,Floyd,Indiana,manual
+18045,Fountain,Indiana,manual
+18047,Franklin,Indiana,manual
+18049,Fulton,Indiana,manual
+18051,Gibson,Indiana,manual
+18053,Grant,Indiana,jdi/manual
+18055,Greene,Indiana,manual
+18057,Hamilton,Indiana,auto/jdi/manual
+18059,Hancock,Indiana,auto/jdi/manual
+18061,Harrison,Indiana,manual
+18063,Hendricks,Indiana,auto/jdi/manual
+18065,Henry,Indiana,manual
+18067,Howard,Indiana,auto/manual
+18069,Huntington,Indiana,manual
+18071,Jackson,Indiana,auto/jdi/manual
+18073,Jasper,Indiana,manual
+18075,Jay,Indiana,manual
+18077,Jefferson,Indiana,manual
+18079,Jennings,Indiana,manual
+18081,Johnson,Indiana,manual
+18083,Knox,Indiana,auto/jdi/manual
+18085,Kosciusko,Indiana,manual
+18087,Lagrange,Indiana,manual
+18089,Lake,Indiana,manual
+18091,Laporte,Indiana,auto/jdi/manual
+18093,Lawrence,Indiana,manual
+18095,Madison,Indiana,manual
+18097,Marion,Indiana,auto/manual
+18099,Marshall,Indiana,manual
+18101,Martin,Indiana,manual
+18103,Miami,Indiana,manual
+18105,Monroe,Indiana,manual
+18107,Montgomery,Indiana,auto/jdi/manual
+18109,Morgan,Indiana,manual
+18111,Newton,Indiana,manual
+18113,Noble,Indiana,manual
+18115,Ohio,Indiana,manual
+18117,Orange,Indiana,manual
+18119,Owen,Indiana,manual
+18121,Parke,Indiana,manual
+18123,Perry,Indiana,auto/jdi/manual
+18125,Pike,Indiana,manual
+18127,Porter,Indiana,auto/jdi/manual
+18129,Posey,Indiana,manual
+18131,Pulaski,Indiana,auto/jdi/manual
+18133,Putnam,Indiana,jdi/manual
+18135,Randolph,Indiana,manual
+18137,Ripley,Indiana,manual
+18139,Rush,Indiana,manual
+18141,St. Joseph,Indiana,manual
+18141,St. Joseph,Indiana,auto/jdi
+18143,Scott,Indiana,auto/manual
+18145,Shelby,Indiana,auto/manual
+18147,Spencer,Indiana,manual
+18149,Starke,Indiana,auto/jdi/manual
+18151,Steuben,Indiana,manual
+18153,Sullivan,Indiana,manual
+18155,Switzerland,Indiana,manual
+18157,Tippecanoe,Indiana,jdi/manual
+18159,Tipton,Indiana,manual
+18161,Union,Indiana,manual
+18163,Vanderburgh,Indiana,manual
+18163,Vanderburgh,Indiana,jdi
+18165,Vermillion,Indiana,manual
+18167,Vigo,Indiana,auto/manual
+18169,Wabash,Indiana,manual
+18171,Warren,Indiana,manual
+18173,Warrick,Indiana,manual
+18175,Washington,Indiana,auto/jdi/manual
+18177,Wayne,Indiana,manual
+18179,Wells,Indiana,manual
+18181,White,Indiana,manual
+18183,Whitley,Indiana,auto/jdi/manual
+19013,Black Hawk,Iowa,jdi
+19021,Buena Vista,Iowa,jdi
+19033,Cerro Gordo,Iowa,jdi
+19045,Clinton,Iowa,auto/jdi
+19049,Dallas,Iowa,auto/jdi
+19057,Des Moines,Iowa,jdi
+19059,Dickinson,Iowa,jdi
+19083,Hardin,Iowa,jdi
+19093,Ida,Iowa,jdi
+19103,Johnson,Iowa,jdi
+19113,Linn,Iowa,jdi
+19119,Lyon,Iowa,jdi
+19127,Marshall,Iowa,auto
+19141,O'Brien,Iowa,jdi
+19149,Plymouth,Iowa,jdi
+19153,Polk,Iowa,jdi
+19155,Pottawattamie,Iowa,jdi
+19163,Scott,Iowa,jdi
+19169,Story,Iowa,jdi
+19195,Worth,Iowa,jdi
+20013,Brown,Kansas,jdi
+20017,Chase,Kansas,jdi
+20021,Cherokee,Kansas,auto/jdi
+20037,Crawford,Kansas,auto/jdi
+20041,Dickinson,Kansas,jdi
+20043,Doniphan,Kansas,jdi
+20045,Douglas,Kansas,manual
+20055,Finney,Kansas,jdi
+20061,Geary,Kansas,jdi
+20085,Jackson,Kansas,jdi
+20087,Jefferson,Kansas,auto/jdi
+20099,Labette,Kansas,jdi
+20113,Mcpherson,Kansas,jdi
+20115,Marion,Kansas,auto/jdi
+20151,Pratt,Kansas,auto/jdi
+20155,Reno,Kansas,jdi
+20169,Saline,Kansas,jdi
+20177,Shawnee,Kansas,jdi
+20181,Sherman,Kansas,jdi
+20191,Sumner,Kansas,jdi
+20193,Thomas,Kansas,jdi
+20195,Trego,Kansas,jdi
+20197,Wabaunsee,Kansas,jdi
+20207,Woodson,Kansas,jdi
+20209,Wyandotte,Kansas,auto/jdi
+21001,Adair,Kentucky,auto/jdi/state
+21003,Allen,Kentucky,auto/jdi/state
+21007,Ballard,Kentucky,auto/jdi/state
+21009,Barren,Kentucky,auto/state
+21013,Bell,Kentucky,auto/jdi/state
+21015,Boone,Kentucky,auto/jdi/state
+21017,Bourbon,Kentucky,auto/jdi/state
+21019,Boyd,Kentucky,auto/jdi/state
+21021,Boyle,Kentucky,auto/jdi/state
+21027,Breckinridge,Kentucky,auto/jdi/state
+21029,Bullitt,Kentucky,auto/jdi/state
+21031,Butler,Kentucky,auto/jdi/state
+21033,Caldwell,Kentucky,jdi/state
+21035,Calloway,Kentucky,auto/jdi/state
+21037,Campbell,Kentucky,auto/jdi/state
+21041,Carroll,Kentucky,auto/jdi/state
+21043,Carter,Kentucky,auto/jdi/state
+21045,Casey,Kentucky,auto/jdi/state
+21047,Christian,Kentucky,auto/jdi/state
+21049,Clark,Kentucky,auto/jdi/state
+21051,Clay,Kentucky,auto/jdi/state
+21055,Crittenden,Kentucky,auto/state
+21059,Daviess,Kentucky,auto/jdi/state
+21067,Fayette,Kentucky,state
+21071,Floyd,Kentucky,state
+21073,Franklin,Kentucky,auto/jdi/state
+21075,Fulton,Kentucky,auto/jdi/state
+21081,Grant,Kentucky,auto/jdi/state
+21083,Graves,Kentucky,auto/state
+21085,Grayson,Kentucky,state
+21089,Greenup,Kentucky,auto/jdi/state
+21093,Hardin,Kentucky,auto/jdi/state
+21095,Harlan,Kentucky,auto/jdi/state
+21099,Hart,Kentucky,auto/jdi/state
+21101,Henderson,Kentucky,auto/state
+21107,Hopkins,Kentucky,auto/jdi/state
+21109,Jackson,Kentucky,auto/jdi/state
+21111,Jefferson,Kentucky,state
+21113,Jessamine,Kentucky,auto/jdi/state
+21115,Johnson,Kentucky,auto/state
+21117,Kenton,Kentucky,auto/jdi/state
+21121,Knox,Kentucky,auto/state
+21123,Larue,Kentucky,auto/jdi/state
+21125,Laurel,Kentucky,auto/jdi/state
+21129,Lee,Kentucky,auto/jdi/state
+21131,Leslie,Kentucky,auto/jdi/state
+21133,Letcher,Kentucky,auto/jdi/state
+21135,Lewis,Kentucky,auto/state
+21135,Lewis,Kentucky,jdi/state
+21137,Lincoln,Kentucky,auto/jdi/state
+21141,Logan,Kentucky,auto/jdi/state
+21145,Mccracken,Kentucky,auto/jdi/state
+21151,Madison,Kentucky,auto/state
+21155,Marion,Kentucky,auto/jdi/state
+21157,Marshall,Kentucky,state
+21161,Mason,Kentucky,auto/jdi/state
+21163,Meade,Kentucky,state
+21173,Montgomery,Kentucky,auto/state
+21177,Muhlenberg,Kentucky,auto/jdi/state
+21179,Nelson,Kentucky,auto/jdi/state
+21183,Ohio,Kentucky,auto/jdi/state
+21185,Oldham,Kentucky,auto/jdi/state
+21193,Perry,Kentucky,state
+21195,Pike,Kentucky,auto/jdi/state
+21197,Powell,Kentucky,auto/state
+21199,Pulaski,Kentucky,auto/jdi/state
+21203,Rockcastle,Kentucky,auto/jdi/state
+21205,Rowan,Kentucky,auto/jdi/state
+21207,Russell,Kentucky,auto/jdi/state
+21209,Scott,Kentucky,auto/jdi/state
+21211,Shelby,Kentucky,auto/jdi/state
+21213,Simpson,Kentucky,state
+21217,Taylor,Kentucky,auto/jdi/state
+21219,Todd,Kentucky,auto/jdi/state
+21225,Union,Kentucky,auto/jdi/state
+21227,Warren,Kentucky,auto/jdi/state
+21231,Wayne,Kentucky,auto/jdi/state
+21233,Webster,Kentucky,auto/jdi/state
+21235,Whitley,Kentucky,auto/jdi/state
+21239,Woodford,Kentucky,auto/jdi/state
+22001,Acadia,Louisiana,auto/jdi
+22003,Allen,Louisiana,auto
+22003,Allen,Louisiana,jdi
+22005,Ascension,Louisiana,auto
+22007,Assumption,Louisiana,auto/jdi
+22009,Avoyelles,Louisiana,auto/jdi
+22011,Beauregard,Louisiana,auto/jdi
+22013,Bienville,Louisiana,auto/jdi
+22015,Bossier,Louisiana,auto/jdi
+22017,Caddo,Louisiana,auto/jdi
+22017,Caddo,Louisiana,jdi
+22019,Calcasieu,Louisiana,auto
+22019,Calcasieu,Louisiana,jdi
+22021,Caldwell,Louisiana,auto/jdi
+22023,Cameron,Louisiana,auto/jdi
+22025,Catahoula,Louisiana,jdi
+22025,Catahoula,Louisiana,auto
+22027,Claiborne,Louisiana,auto/jdi
+22029,Concordia,Louisiana,auto/jdi
+22031,De Soto,Louisiana,auto
+22033,East Baton Rouge,Louisiana,auto
+22037,East Feliciana,Louisiana,auto/jdi
+22039,Evangeline,Louisiana,jdi
+22039,Evangeline,Louisiana,jdi
+22041,Franklin,Louisiana,auto/jdi
+22045,Iberia,Louisiana,auto/jdi
+22047,Iberville,Louisiana,auto/jdi
+22049,Jackson,Louisiana,auto/jdi
+22051,Jefferson,Louisiana,auto
+22053,Jefferson Davis,Louisiana,auto/jdi
+22055,Lafayette,Louisiana,jdi
+22055,Lafayette,Louisiana,auto
+22057,Lafourche,Louisiana,auto
+22059,La Salle,Louisiana,auto/jdi
+22061,Lincoln,Louisiana,auto/jdi
+22063,Livingston,Louisiana,auto
+22065,Madison,Louisiana,auto/jdi
+22067,Morehouse,Louisiana,auto/jdi
+22069,Natchitoches,Louisiana,auto/jdi
+22071,Orleans,Louisiana,auto/jdi
+22073,Ouachita,Louisiana,auto/jdi
+22075,Plaquemines,Louisiana,auto
+22077,Pointe Coupee,Louisiana,auto/jdi
+22079,Rapides,Louisiana,auto/jdi
+22081,Red River,Louisiana,auto/jdi
+22083,Richland,Louisiana,auto/jdi
+22085,Sabine,Louisiana,auto/jdi
+22089,St. Charles,Louisiana,auto/jdi
+22091,St. Helena,Louisiana,auto
+22093,St. James,Louisiana,auto/jdi
+22095,St. John The Baptist,Louisiana,auto/jdi
+22097,St. Landry,Louisiana,jdi
+22099,St. Martin,Louisiana,auto/jdi
+22101,St. Mary,Louisiana,auto/jdi
+22103,St. Tammany,Louisiana,auto
+22105,Tangipahoa,Louisiana,jdi
+22105,Tangipahoa,Louisiana,auto/jdi
+22107,Tensas,Louisiana,auto/jdi
+22109,Terrebonne,Louisiana,jdi
+22113,Vermilion,Louisiana,auto/jdi
+22115,Vernon,Louisiana,jdi
+22115,Vernon,Louisiana,auto/jdi
+22117,Washington,Louisiana,jdi
+22117,Washington,Louisiana,auto/jdi
+22119,Webster,Louisiana,auto/jdi
+22121,West Baton Rouge,Louisiana,auto/jdi
+22123,West Carroll,Louisiana,auto/jdi
+22125,West Feliciana,Louisiana,auto/jdi
+22127,Winn,Louisiana,auto/jdi
+22127,Winn,Louisiana,jdi
+23005,Cumberland,Maine,jdi
+23019,Penobscot,Maine,jdi
+24001,Allegany,Maryland,jdi
+24019,Dorchester,Maryland,auto/jdi
+24033,Prince George'S,Maryland,auto/jdi
+24037,St. Mary'S,Maryland,jdi
+24510,Baltimore City,Maryland,jdi
+25027,Worcester,Massachusetts,jdi
+26041,Delta,Michigan,jdi
+26073,Isabella,Michigan,auto/jdi
+26111,Midland,Michigan,auto/jdi
+26125,Oakland,Michigan,auto/jdi
+26145,Saginaw,Michigan,jdi
+26159,Van Buren,Michigan,jdi
+26163,Wayne,Michigan,auto
+27007,Beltrami,Minnesota,jdi
+27009,Benton,Minnesota,auto/jdi
+27013,Blue Earth,Minnesota,jdi
+27015,Brown,Minnesota,jdi
+27017,Carlton,Minnesota,jdi
+27019,Carver,Minnesota,jdi
+27025,Chisago,Minnesota,jdi
+27027,Clay,Minnesota,jdi
+27029,Clearwater,Minnesota,jdi
+27031,Cook,Minnesota,jdi
+27035,Crow Wing,Minnesota,jdi
+27037,Dakota,Minnesota,jdi
+27043,Faribault,Minnesota,jdi
+27045,Fillmore,Minnesota,jdi
+27049,Goodhue,Minnesota,jdi
+27057,Hubbard,Minnesota,jdi
+27059,Isanti,Minnesota,jdi
+27065,Kanabec,Minnesota,jdi
+27067,Kandiyohi,Minnesota,jdi
+27071,Koochiching,Minnesota,jdi
+27073,Lac Qui Parle,Minnesota,jdi
+27079,Le Sueur,Minnesota,jdi
+27083,Lyon,Minnesota,jdi
+27085,Mcleod,Minnesota,jdi
+27091,Martin,Minnesota,jdi
+27095,Mille Lacs,Minnesota,jdi
+27097,Morrison,Minnesota,jdi
+27099,Mower,Minnesota,jdi
+27103,Nicollet,Minnesota,jdi
+27105,Nobles,Minnesota,jdi
+27109,Olmsted,Minnesota,jdi
+27113,Pennington,Minnesota,jdi
+27117,Pipestone,Minnesota,jdi
+27119,Polk,Minnesota,jdi
+27127,Redwood,Minnesota,jdi
+27129,Renville,Minnesota,jdi
+27131,Rice,Minnesota,jdi
+27135,Roseau,Minnesota,jdi
+27137,St. Louis,Minnesota,jdi
+27139,Scott,Minnesota,jdi
+27141,Sherburne,Minnesota,jdi
+27143,Sibley,Minnesota,jdi
+27147,Steele,Minnesota,jdi
+27151,Swift,Minnesota,jdi
+27153,Todd,Minnesota,jdi
+27157,Wabasha,Minnesota,jdi
+27159,Wadena,Minnesota,jdi
+27161,Waseca,Minnesota,jdi
+27165,Watonwan,Minnesota,jdi
+27167,Wilkin,Minnesota,jdi
+27169,Winona,Minnesota,jdi
+27171,Wright,Minnesota,jdi
+27173,Yellow Medicine,Minnesota,jdi
+28001,Adams,Mississippi,auto/jdi
+28025,Clay,Mississippi,auto/jdi
+28033,Desoto,Mississippi,auto
+28035,Forrest,Mississippi,auto
+28045,Hancock,Mississippi,auto/jdi
+28049,Hinds,Mississippi,auto
+28059,Jackson,Mississippi,auto/jdi
+28061,Jasper,Mississippi,jdi
+28069,Kemper,Mississippi,auto/jdi
+28073,Lamar,Mississippi,auto/jdi
+28081,Lee,Mississippi,auto/jdi
+28091,Marion,Mississippi,auto/jdi
+28111,Perry,Mississippi,auto/jdi
+28133,Sunflower,Mississippi,jdi
+28143,Tunica,Mississippi,auto/jdi
+28163,Yazoo,Mississippi,auto/jdi
+29009,Barry,Missouri,auto/jdi
+29013,Bates,Missouri,auto/jdi
+29015,Benton,Missouri,jdi
+29017,Bollinger,Missouri,auto/jdi
+29019,Boone,Missouri,jdi
+29021,Buchanan,Missouri,auto/jdi
+29031,Cape Girardeau,Missouri,auto/jdi
+29037,Cass,Missouri,auto/jdi
+29039,Cedar,Missouri,jdi
+29043,Christian,Missouri,auto/jdi
+29045,Clark,Missouri,auto/jdi
+29047,Clay,Missouri,auto/jdi
+29053,Cooper,Missouri,auto/jdi
+29061,Daviess,Missouri,auto
+29077,Greene,Missouri,auto
+29083,Henry,Missouri,auto/jdi
+29089,Howard,Missouri,auto/jdi
+29095,Jackson,Missouri,auto/jdi
+29097,Jasper,Missouri,jdi
+29097,Jasper,Missouri,jdi
+29101,Johnson,Missouri,auto/jdi
+29109,Lawrence,Missouri,auto/jdi
+29111,Lewis,Missouri,jdi
+29117,Livingston,Missouri,auto/jdi
+29119,Mcdonald,Missouri,auto/jdi
+29127,Marion,Missouri,auto/jdi
+29137,Monroe,Missouri,auto/jdi
+29141,Morgan,Missouri,auto/jdi
+29147,Nodaway,Missouri,auto/jdi
+29157,Perry,Missouri,auto/jdi
+29165,Platte,Missouri,auto/jdi
+29169,Pulaski,Missouri,jdi
+29175,Randolph,Missouri,auto/jdi
+29195,Saline,Missouri,auto/jdi
+29201,Scott,Missouri,auto/jdi
+29209,Stone,Missouri,auto/jdi
+29213,Taney,Missouri,jdi
+29510,St. Louis City,Missouri,manual
+30001,Beaverhead,Montana,jdi
+30003,Big Horn,Montana,jdi
+30007,Broadwater,Montana,jdi
+30013,Cascade,Montana,jdi
+30029,Flathead,Montana,jdi
+30035,Glacier,Montana,jdi
+30043,Jefferson,Montana,jdi
+30047,Lake,Montana,jdi
+30049,Lewis And Clark,Montana,jdi
+30063,Missoula,Montana,jdi
+30081,Ravalli,Montana,auto/jdi
+30087,Rosebud,Montana,jdi
+30093,Silver Bow,Montana,jdi
+30105,Valley,Montana,jdi
+30111,Yellowstone,Montana,jdi
+31079,Hall,Nebraska,auto/jdi
+31095,Jefferson,Nebraska,auto/jdi
+31101,Keith,Nebraska,auto/jdi
+31109,Lancaster,Nebraska,jdi
+31111,Lincoln,Nebraska,jdi
+31153,Sarpy,Nebraska,jdi
+32003,Clark,Nevada,jdi
+32003,Clark,Nevada,jdi
+33001,Belknap,New Hampshire,auto/jdi
+33005,Cheshire,New Hampshire,jdi
+34003,Bergen,New Jersey,auto/jdi
+34005,Burlington,New Jersey,jdi
+34009,Cape May,New Jersey,auto/jdi
+34011,Cumberland,New Jersey,jdi
+34013,Essex,New Jersey,auto
+34019,Hunterdon,New Jersey,jdi
+34029,Ocean,New Jersey,jdi
+34033,Salem,New Jersey,auto/jdi
+34037,Sussex,New Jersey,auto/jdi
+35001,Bernalillo,New Mexico,jdi
+35009,Curry,New Mexico,jdi
+35015,Eddy,New Mexico,auto/jdi
+35025,Lea,New Mexico,jdi
+35025,Lea,New Mexico,jdi
+35029,Luna,New Mexico,jdi
+35043,Sandoval,New Mexico,jdi
+35045,San Juan,New Mexico,jdi
+35047,San Miguel,New Mexico,auto/jdi
+35051,Sierra,New Mexico,jdi
+35053,Socorro,New Mexico,auto/jdi
+36001,Albany,New York,state
+36003,Allegany,New York,state
+36007,Broome,New York,state
+36009,Cattaraugus,New York,state
+36011,Cayuga,New York,state
+36013,Chautauqua,New York,auto/jdi/state
+36015,Chemung,New York,state
+36017,Chenango,New York,state
+36019,Clinton,New York,state
+36021,Columbia,New York,state
+36023,Cortland,New York,state
+36025,Delaware,New York,state
+36027,Dutchess,New York,state
+36029,Erie,New York,jdi/state
+36031,Essex,New York,state
+36033,Franklin,New York,state
+36035,Fulton,New York,state
+36037,Genesee,New York,state
+36039,Greene,New York,state
+36041,Hamilton,New York,state
+36043,Herkimer,New York,state
+36045,Jefferson,New York,state
+36049,Lewis,New York,state
+36051,Livingston,New York,state
+36053,Madison,New York,state
+36055,Monroe,New York,jdi/state
+36057,Montgomery,New York,state
+36059,Nassau,New York,auto/manual/state
+36061,New York,New York,auto/state
+36063,Niagara,New York,jdi/state
+36065,Oneida,New York,auto/jdi/state
+36067,Onondaga,New York,jdi/state
+36069,Ontario,New York,state
+36071,Orange,New York,state
+36073,Orleans,New York,state
+36075,Oswego,New York,state
+36077,Otsego,New York,state
+36079,Putnam,New York,state
+36083,Rensselaer,New York,state
+36087,Rockland,New York,state
+36089,St. Lawrence,New York,state
+36091,Saratoga,New York,state
+36093,Schenectady,New York,state
+36095,Schoharie,New York,state
+36097,Schuyler,New York,state
+36099,Seneca,New York,state
+36101,Steuben,New York,state
+36103,Suffolk,New York,manual/state
+36105,Sullivan,New York,state
+36107,Tioga,New York,state
+36109,Tompkins,New York,state
+36111,Ulster,New York,state
+36113,Warren,New York,state
+36115,Washington,New York,state
+36117,Wayne,New York,state
+36119,Westchester,New York,auto/jdi/state
+36121,Wyoming,New York,state
+36123,Yates,New York,state
+37001,Alamance,North Carolina,auto/jdi
+37007,Anson,North Carolina,auto/jdi
+37021,Buncombe,North Carolina,auto/jdi
+37023,Burke,North Carolina,jdi
+37025,Cabarrus,North Carolina,auto/jdi
+37027,Caldwell,North Carolina,jdi
+37031,Carteret,North Carolina,auto/jdi
+37035,Catawba,North Carolina,jdi
+37039,Cherokee,North Carolina,auto
+37045,Cleveland,North Carolina,auto/jdi
+37049,Craven,North Carolina,jdi
+37057,Davidson,North Carolina,jdi
+37063,Durham,North Carolina,auto/jdi
+37067,Forsyth,North Carolina,auto
+37071,Gaston,North Carolina,jdi
+37081,Guilford,North Carolina,auto/jdi
+37085,Harnett,North Carolina,jdi
+37089,Henderson,North Carolina,jdi
+37101,Johnston,North Carolina,auto/jdi
+37105,Lee,North Carolina,auto/jdi
+37109,Lincoln,North Carolina,auto/jdi
+37119,Mecklenburg,North Carolina,jdi
+37125,Moore,North Carolina,jdi
+37129,New Hanover,North Carolina,auto/jdi
+37135,Orange,North Carolina,jdi
+37141,Pender,North Carolina,auto/jdi
+37147,Pitt,North Carolina,jdi
+37151,Randolph,North Carolina,auto/jdi
+37153,Richmond,North Carolina,jdi
+37159,Rowan,North Carolina,auto/jdi
+37163,Sampson,North Carolina,jdi
+37167,Stanly,North Carolina,jdi
+37175,Transylvania,North Carolina,auto/jdi
+37183,Wake,North Carolina,auto/jdi
+38003,Barnes,North Dakota,jdi
+38015,Burleigh,North Dakota,auto/jdi
+38017,Cass,North Dakota,jdi
+38071,Ramsey,North Dakota,jdi
+38089,Stark,North Dakota,jdi
+38093,Stutsman,North Dakota,jdi
+38101,Ward,North Dakota,jdi
+38105,Williams,North Dakota,auto/jdi
+39001,Adams,Ohio,auto/jdi
+39009,Athens,Ohio,auto
+39013,Belmont,Ohio,jdi
+39025,Clermont,Ohio,jdi
+39027,Clinton,Ohio,jdi
+39031,Coshocton,Ohio,jdi
+39041,Delaware,Ohio,jdi
+39043,Erie,Ohio,jdi
+39049,Franklin,Ohio,jdi
+39053,Gallia,Ohio,jdi
+39059,Guernsey,Ohio,jdi
+39061,Hamilton,Ohio,jdi
+39077,Huron,Ohio,jdi
+39083,Knox,Ohio,jdi
+39089,Licking,Ohio,jdi
+39107,Mercer,Ohio,jdi
+39117,Morrow,Ohio,jdi
+39121,Noble,Ohio,jdi
+39123,Ottawa,Ohio,jdi
+39129,Pickaway,Ohio,jdi
+39143,Sandusky,Ohio,jdi
+39153,Summit,Ohio,jdi
+39157,Tuscarawas,Ohio,jdi
+39167,Washington,Ohio,jdi
+39171,Williams,Ohio,jdi
+39173,Wood,Ohio,jdi
+40023,Choctaw,Oklahoma,jdi
+40031,Comanche,Oklahoma,auto/jdi
+40037,Creek,Oklahoma,jdi
+40049,Garvin,Oklahoma,jdi
+40051,Grady,Oklahoma,jdi
+40087,Mcclain,Oklahoma,jdi
+40097,Mayes,Oklahoma,auto/jdi
+40111,Okmulgee,Oklahoma,jdi
+40113,Osage,Oklahoma,jdi
+40117,Pawnee,Oklahoma,jdi
+40125,Pottawatomie,Oklahoma,jdi
+40131,Rogers,Oklahoma,auto/jdi
+40145,Wagoner,Oklahoma,jdi
+41001,Baker,Oregon,jdi
+41003,Benton,Oregon,jdi
+41005,Clackamas,Oregon,jdi
+41007,Clatsop,Oregon,jdi
+41009,Columbia,Oregon,jdi
+41011,Coos,Oregon,jdi
+41013,Crook,Oregon,auto
+41015,Curry,Oregon,jdi
+41017,Deschutes,Oregon,auto/jdi
+41019,Douglas,Oregon,auto/jdi
+41025,Harney,Oregon,jdi
+41029,Jackson,Oregon,auto/jdi
+41031,Jefferson,Oregon,auto/jdi
+41033,Josephine,Oregon,auto/jdi
+41035,Klamath,Oregon,jdi
+41041,Lincoln,Oregon,jdi
+41043,Linn,Oregon,jdi
+41047,Marion,Oregon,jdi
+41051,Multnomah,Oregon,jdi
+41057,Tillamook,Oregon,jdi
+41059,Umatilla,Oregon,jdi
+41061,Union,Oregon,jdi
+41065,Wasco,Oregon,auto/jdi
+41067,Washington,Oregon,jdi
+41071,Yamhill,Oregon,jdi
+42001,Adams,Pennsylvania,manual
+42003,Allegheny,Pennsylvania,manual
+42005,Armstrong,Pennsylvania,manual
+42007,Beaver,Pennsylvania,manual
+42009,Bedford,Pennsylvania,manual
+42013,Blair,Pennsylvania,manual
+42017,Bucks,Pennsylvania,auto/manual
+42021,Cambria,Pennsylvania,manual
+42027,Centre,Pennsylvania,manual
+42031,Clarion,Pennsylvania,auto/manual
+42033,Clearfield,Pennsylvania,manual
+42035,Clinton,Pennsylvania,manual
+42037,Columbia,Pennsylvania,manual
+42039,Crawford,Pennsylvania,jdi/manual
+42041,Cumberland,Pennsylvania,jdi
+42043,Dauphin,Pennsylvania,auto/jdi/manual
+42055,Franklin,Pennsylvania,manual
+42059,Greene,Pennsylvania,auto/jdi/manual
+42061,Huntingdon,Pennsylvania,manual
+42063,Indiana,Pennsylvania,manual
+42067,Juniata,Pennsylvania,manual
+42071,Lancaster,Pennsylvania,auto/jdi/manual
+42077,Lehigh,Pennsylvania,manual
+42081,Lycoming,Pennsylvania,jdi
+42085,Mercer,Pennsylvania,auto/jdi
+42087,Mifflin,Pennsylvania,manual
+42091,Montgomery,Pennsylvania,manual
+42093,Montour,Pennsylvania,manual
+42097,Northumberland,Pennsylvania,manual
+42099,Perry,Pennsylvania,manual
+42101,Philadelphia,Pennsylvania,manual
+42105,Potter,Pennsylvania,manual
+42107,Schuylkill,Pennsylvania,manual
+42109,Snyder,Pennsylvania,manual
+42111,Somerset,Pennsylvania,manual
+42113,Sullivan,Pennsylvania,manual
+42115,Susquehanna,Pennsylvania,manual
+42117,Tioga,Pennsylvania,manual
+42119,Union,Pennsylvania,manual
+42121,Venango,Pennsylvania,manual
+42125,Washington,Pennsylvania,manual
+45003,Aiken,South Carolina,jdi
+45007,Anderson,South Carolina,auto/jdi
+45007,Anderson,South Carolina,jdi
+45013,Beaufort,South Carolina,auto/jdi
+45015,Berkeley,South Carolina,auto/jdi
+45021,Cherokee,South Carolina,auto/jdi
+45023,Chester,South Carolina,auto/jdi
+45031,Darlington,South Carolina,jdi
+45041,Florence,South Carolina,auto
+45055,Kershaw,South Carolina,auto/jdi
+45059,Laurens,South Carolina,jdi
+45063,Lexington,South Carolina,jdi
+45067,Marion,South Carolina,jdi
+45071,Newberry,South Carolina,jdi
+45073,Oconee,South Carolina,auto
+45077,Pickens,South Carolina,auto/jdi
+45083,Spartanburg,South Carolina,jdi
+45085,Sumter,South Carolina,auto/jdi
+45087,Union,South Carolina,auto
+46011,Brookings,South Dakota,jdi
+46027,Clay,South Dakota,auto/jdi
+46029,Codington,South Dakota,jdi
+46099,Minnehaha,South Dakota,jdi
+46103,Pennington,South Dakota,jdi
+46113,Ogala,South Dakota,auto
+47001,Anderson,Tennessee,state
+47003,Bedford,Tennessee,state
+47005,Benton,Tennessee,state
+47007,Bledsoe,Tennessee,auto/state
+47009,Blount,Tennessee,jdi/state
+47011,Bradley,Tennessee,state
+47013,Campbell,Tennessee,state
+47015,Cannon,Tennessee,state
+47017,Carroll,Tennessee,state
+47019,Carter,Tennessee,auto/jdi/state
+47021,Cheatham,Tennessee,state
+47023,Chester,Tennessee,state
+47025,Claiborne,Tennessee,state
+47027,Clay,Tennessee,state
+47029,Cocke,Tennessee,state
+47031,Coffee,Tennessee,state
+47033,Crockett,Tennessee,state
+47035,Cumberland,Tennessee,state
+47037,Davidson,Tennessee,state
+47037,Davidson,Tennessee,state
+47039,Decatur,Tennessee,state
+47041,Dekalb,Tennessee,state
+47043,Dickson,Tennessee,state
+47045,Dyer,Tennessee,auto/state
+47047,Fayette,Tennessee,state
+47049,Fentress,Tennessee,state
+47051,Franklin,Tennessee,state
+47053,Gibson,Tennessee,state
+47055,Giles,Tennessee,auto/jdi/state
+47057,Grainger,Tennessee,state
+47059,Greene,Tennessee,state
+47061,Grundy,Tennessee,state
+47063,Hamblen,Tennessee,auto/state
+47065,Hamilton,Tennessee,auto/jdi/state
+47065,Hamilton,Tennessee,state
+47067,Hancock,Tennessee,state
+47069,Hardeman,Tennessee,state
+47071,Hardin,Tennessee,state
+47073,Hawkins,Tennessee,state
+47075,Haywood,Tennessee,state
+47077,Henderson,Tennessee,state
+47079,Henry,Tennessee,state
+47081,Hickman,Tennessee,state
+47083,Houston,Tennessee,state
+47085,Humphreys,Tennessee,state
+47087,Jackson,Tennessee,state
+47089,Jefferson,Tennessee,state
+47091,Johnson,Tennessee,state
+47093,Knox,Tennessee,auto/jdi/state
+47095,Lake,Tennessee,state
+47097,Lauderdale,Tennessee,state
+47099,Lawrence,Tennessee,auto/state
+47101,Lewis,Tennessee,state
+47103,Lincoln,Tennessee,state
+47105,Loudon,Tennessee,auto/jdi/state
+47107,Mcminn,Tennessee,auto/state
+47109,Mcnairy,Tennessee,state
+47111,Macon,Tennessee,jdi/state
+47113,Madison,Tennessee,state
+47115,Marion,Tennessee,state
+47117,Marshall,Tennessee,auto/state
+47119,Maury,Tennessee,state
+47121,Meigs,Tennessee,state
+47123,Monroe,Tennessee,auto/jdi/state
+47125,Montgomery,Tennessee,state
+47127,Moore,Tennessee,state
+47129,Morgan,Tennessee,state
+47131,Obion,Tennessee,state
+47133,Overton,Tennessee,state
+47135,Perry,Tennessee,state
+47137,Pickett,Tennessee,state
+47139,Polk,Tennessee,jdi/state
+47141,Putnam,Tennessee,jdi/state
+47143,Rhea,Tennessee,state
+47145,Roane,Tennessee,auto/state
+47147,Robertson,Tennessee,auto/state
+47149,Rutherford,Tennessee,state
+47151,Scott,Tennessee,state
+47153,Sequatchie,Tennessee,state
+47155,Sevier,Tennessee,auto/jdi/state
+47157,Shelby,Tennessee,auto/manual/state
+47159,Smith,Tennessee,state
+47161,Stewart,Tennessee,auto/state
+47163,Sullivan,Tennessee,state
+47165,Sumner,Tennessee,auto/state
+47167,Tipton,Tennessee,state
+47169,Trousdale,Tennessee,state
+47171,Unicoi,Tennessee,state
+47173,Union,Tennessee,state
+47175,Van Buren,Tennessee,state
+47177,Warren,Tennessee,state
+47179,Washington,Tennessee,state
+47179,Washington,Tennessee,state
+47181,Wayne,Tennessee,jdi/state
+47183,Weakley,Tennessee,state
+47185,White,Tennessee,state
+47187,Williamson,Tennessee,state
+47189,Wilson,Tennessee,state
+48001,Anderson,Texas,state
+48003,Andrews,Texas,state
+48005,Angelina,Texas,jdi/state
+48007,Aransas,Texas,state
+48009,Archer,Texas,jdi/state
+48011,Armstrong,Texas,state
+48013,Atascosa,Texas,state
+48015,Austin,Texas,state
+48017,Bailey,Texas,state
+48019,Bandera,Texas,state
+48021,Bastrop,Texas,state
+48023,Baylor,Texas,state
+48025,Bee,Texas,state
+48027,Bell,Texas,auto/jdi/state
+48029,Bexar,Texas,state
+48031,Blanco,Texas,state
+48033,Borden,Texas,state
+48035,Bosque,Texas,state
+48037,Bowie,Texas,state
+48039,Brazoria,Texas,state
+48041,Brazos,Texas,state
+48043,Brewster,Texas,state
+48045,Briscoe,Texas,state
+48047,Brooks,Texas,state
+48047,Brooks,Texas,state
+48049,Brown,Texas,auto/jdi/state
+48051,Burleson,Texas,state
+48053,Burnet,Texas,state
+48055,Caldwell,Texas,state
+48057,Calhoun,Texas,jdi/state
+48059,Callahan,Texas,state
+48061,Cameron,Texas,state
+48063,Camp,Texas,state
+48065,Carson,Texas,state
+48067,Cass,Texas,state
+48069,Castro,Texas,state
+48071,Chambers,Texas,state
+48073,Cherokee,Texas,state
+48075,Childress,Texas,state
+48077,Clay,Texas,state
+48079,Cochran,Texas,auto/jdi/state
+48081,Coke,Texas,state
+48083,Coleman,Texas,auto/jdi/state
+48085,Collin,Texas,jdi/state
+48087,Collingsworth,Texas,state
+48089,Colorado,Texas,state
+48091,Comal,Texas,state
+48093,Comanche,Texas,state
+48095,Concho,Texas,state
+48097,Cooke,Texas,auto/state
+48099,Coryell,Texas,state
+48101,Cottle,Texas,state
+48103,Crane,Texas,state
+48105,Crockett,Texas,state
+48107,Crosby,Texas,state
+48109,Culberson,Texas,state
+48111,Dallam,Texas,state
+48113,Dallas,Texas,state
+48113,Dallas,Texas,jdi/state
+48115,Dawson,Texas,state
+48117,Deaf Smith,Texas,state
+48119,Delta,Texas,state
+48121,Denton,Texas,state
+48123,Dewitt,Texas,jdi/state
+48125,Dickens,Texas,state
+48125,Dickens,Texas,state
+48127,Dimmit,Texas,state
+48129,Donley,Texas,state
+48131,Duval,Texas,state
+48133,Eastland,Texas,state
+48135,Ector,Texas,state
+48135,Ector,Texas,state
+48137,Edwards,Texas,jdi/state
+48139,Ellis,Texas,jdi/state
+48141,El Paso,Texas,state
+48143,Erath,Texas,auto/jdi/state
+48145,Falls,Texas,state
+48147,Fannin,Texas,state
+48149,Fayette,Texas,state
+48151,Fisher,Texas,state
+48153,Floyd,Texas,state
+48155,Foard,Texas,state
+48157,Fort Bend,Texas,jdi/state
+48159,Franklin,Texas,state
+48161,Freestone,Texas,auto/state
+48163,Frio,Texas,state
+48165,Gaines,Texas,state
+48167,Galveston,Texas,jdi/state
+48169,Garza,Texas,state
+48171,Gillespie,Texas,state
+48173,Glasscock,Texas,state
+48175,Goliad,Texas,state
+48177,Gonzales,Texas,state
+48179,Gray,Texas,state
+48181,Grayson,Texas,state
+48183,Gregg,Texas,state
+48185,Grimes,Texas,state
+48187,Guadalupe,Texas,state
+48189,Hale,Texas,state
+48191,Hall,Texas,state
+48193,Hamilton,Texas,state
+48195,Hansford,Texas,state
+48197,Hardeman,Texas,state
+48199,Hardin,Texas,state
+48201,Harris,Texas,jdi/state
+48201,Harris,Texas,auto/state
+48203,Harrison,Texas,state
+48205,Hartley,Texas,state
+48207,Haskell,Texas,state
+48209,Hays,Texas,state
+48211,Hemphill,Texas,state
+48213,Henderson,Texas,state
+48215,Hidalgo,Texas,state
+48217,Hill,Texas,state
+48219,Hockley,Texas,auto/state
+48221,Hood,Texas,state
+48223,Hopkins,Texas,auto/jdi/state
+48225,Houston,Texas,state
+48227,Howard,Texas,state
+48229,Hudspeth,Texas,state
+48231,Hunt,Texas,state
+48233,Hutchinson,Texas,state
+48235,Irion,Texas,state
+48237,Jack,Texas,state
+48239,Jackson,Texas,state
+48241,Jasper,Texas,state
+48243,Jeff Davis,Texas,state
+48245,Jefferson,Texas,state
+48245,Jefferson,Texas,state
+48247,Jim Hogg,Texas,state
+48249,Jim Wells,Texas,jdi/state
+48251,Johnson,Texas,state
+48253,Jones,Texas,state
+48255,Karnes,Texas,state
+48257,Kaufman,Texas,jdi/state
+48259,Kendall,Texas,state
+48261,Kenedy,Texas,state
+48263,Kent,Texas,state
+48265,Kerr,Texas,state
+48267,Kimble,Texas,state
+48269,King,Texas,state
+48271,Kinney,Texas,state
+48273,Kleberg,Texas,state
+48275,Knox,Texas,state
+48277,Lamar,Texas,state
+48279,Lamb,Texas,state
+48281,Lampasas,Texas,state
+48283,La Salle,Texas,state
+48285,Lavaca,Texas,jdi/state
+48287,Lee,Texas,state
+48289,Leon,Texas,state
+48291,Liberty,Texas,auto/jdi/state
+48293,Limestone,Texas,state
+48293,Limestone,Texas,state
+48295,Lipscomb,Texas,state
+48297,Live Oak,Texas,state
+48299,Llano,Texas,state
+48301,Loving,Texas,state
+48303,Lubbock,Texas,jdi/state
+48305,Lynn,Texas,state
+48307,Mcculloch,Texas,state
+48309,Mclennan,Texas,state
+48309,Mclennan,Texas,state
+48311,Mcmullen,Texas,state
+48313,Madison,Texas,state
+48315,Marion,Texas,state
+48317,Martin,Texas,state
+48319,Mason,Texas,state
+48321,Matagorda,Texas,state
+48323,Maverick,Texas,state
+48325,Medina,Texas,state
+48327,Menard,Texas,state
+48329,Midland,Texas,jdi/state
+48331,Milam,Texas,jdi/state
+48333,Mills,Texas,state
+48335,Mitchell,Texas,state
+48337,Montague,Texas,jdi/state
+48339,Montgomery,Texas,jdi/state
+48341,Moore,Texas,state
+48343,Morris,Texas,state
+48345,Motley,Texas,state
+48347,Nacogdoches,Texas,state
+48349,Navarro,Texas,state
+48351,Newton,Texas,state
+48351,Newton,Texas,state
+48353,Nolan,Texas,state
+48355,Nueces,Texas,state
+48357,Ochiltree,Texas,auto/state
+48359,Oldham,Texas,state
+48361,Orange,Texas,jdi/state
+48363,Palo Pinto,Texas,state
+48365,Panola,Texas,state
+48367,Parker,Texas,state
+48369,Parmer,Texas,jdi/state
+48371,Pecos,Texas,state
+48373,Polk,Texas,jdi/state
+48373,Polk,Texas,state
+48375,Potter,Texas,jdi/state
+48377,Presidio,Texas,state
+48379,Rains,Texas,state
+48381,Randall,Texas,jdi/state
+48383,Reagan,Texas,state
+48385,Real,Texas,state
+48387,Red River,Texas,auto/state
+48389,Reeves,Texas,state
+48391,Refugio,Texas,state
+48393,Roberts,Texas,state
+48395,Robertson,Texas,jdi/state
+48397,Rockwall,Texas,jdi/state
+48399,Runnels,Texas,state
+48401,Rusk,Texas,auto/state
+48403,Sabine,Texas,state
+48405,San Augustine,Texas,state
+48407,San Jacinto,Texas,state
+48409,San Patricio,Texas,state
+48411,San Saba,Texas,state
+48413,Schleicher,Texas,state
+48415,Scurry,Texas,state
+48417,Shackelford,Texas,jdi/state
+48419,Shelby,Texas,jdi/state
+48421,Sherman,Texas,state
+48423,Smith,Texas,state
+48425,Somervell,Texas,state
+48427,Starr,Texas,state
+48429,Stephens,Texas,state
+48431,Sterling,Texas,state
+48433,Stonewall,Texas,state
+48435,Sutton,Texas,state
+48437,Swisher,Texas,state
+48439,Tarrant,Texas,jdi/state
+48441,Taylor,Texas,state
+48443,Terrell,Texas,state
+48445,Terry,Texas,jdi/state
+48447,Throckmorton,Texas,state
+48449,Titus,Texas,auto/jdi/state
+48451,Tom Green,Texas,auto/jdi/state
+48453,Travis,Texas,jdi/state
+48455,Trinity,Texas,state
+48457,Tyler,Texas,state
+48459,Upshur,Texas,auto/jdi/state
+48461,Upton,Texas,state
+48463,Uvalde,Texas,state
+48465,Val Verde,Texas,state
+48467,Van Zandt,Texas,auto/jdi/state
+48469,Victoria,Texas,state
+48471,Walker,Texas,state
+48473,Waller,Texas,state
+48475,Ward,Texas,state
+48477,Washington,Texas,state
+48479,Webb,Texas,state
+48481,Wharton,Texas,jdi/state
+48483,Wheeler,Texas,state
+48485,Wichita,Texas,auto/state
+48487,Wilbarger,Texas,state
+48489,Willacy,Texas,jdi/state
+48491,Williamson,Texas,state
+48493,Wilson,Texas,auto/state
+48495,Winkler,Texas,state
+48497,Wise,Texas,state
+48499,Wood,Texas,state
+48501,Yoakum,Texas,state
+48503,Young,Texas,auto/state
+48505,Zapata,Texas,state
+48507,Zavala,Texas,state
+49005,Cache,Utah,jdi
+49011,Davis,Utah,jdi
+49021,Iron,Utah,jdi
+49035,Salt Lake,Utah,auto/jdi
+49039,Sanpete,Utah,jdi
+49045,Tooele,Utah,jdi
+49053,Washington,Utah,jdi
+49057,Weber,Utah,jdi
+51013,Arlington,Virginia,jdi
+51025,Brunswick,Virginia,auto/jdi
+51069,Frederick,Virginia,auto
+51083,Halifax,Virginia,auto
+51085,Hanover,Virginia,auto/jdi
+51087,Henrico,Virginia,jdi
+51119,Middlesex,Virginia,auto/jdi
+51159,Richmond,Virginia,auto
+51161,Roanoke,Virginia,jdi
+51161,Roanoke,Virginia,auto/jdi
+51163,Rockbridge,Virginia,auto
+51187,Warren,Virginia,auto
+51191,Washington,Virginia,auto
+51550,Chesapeake City,Virginia,auto
+51590,Danville City,Virginia,jdi
+51670,Hopewell City,Virginia,auto/jdi
+51710,Norfolk City,Virginia,jdi
+51770,Roanoke City,Virginia,jdi
+51790,Staunton City,Virginia,auto/jdi
+51800,Suffolk City,Virginia,auto/jdi
+51810,Virginia Beach City,Virginia,auto/jdi
+51830,Williamsburg City,Virginia,auto/jdi
+53001,Adams,Washington,jdi
+53007,Chelan,Washington,jdi
+53009,Clallam,Washington,jdi
+53011,Clark,Washington,auto/jdi/manual
+53013,Columbia,Washington,auto/jdi
+53015,Cowlitz,Washington,jdi
+53021,Franklin,Washington,jdi
+53025,Grant,Washington,jdi
+53027,Grays Harbor,Washington,jdi
+53027,Grays Harbor,Washington,jdi
+53027,Grays Harbor,Washington,jdi
+53029,Island,Washington,auto/jdi
+53031,Jefferson,Washington,jdi
+53033,King,Washington,auto
+53033,King,Washington,jdi
+53033,King,Washington,jdi
+53035,Kitsap,Washington,jdi
+53037,Kittitas,Washington,jdi
+53041,Lewis,Washington,jdi
+53043,Lincoln,Washington,auto/jdi
+53045,Mason,Washington,jdi
+53047,Okanogan,Washington,jdi
+53049,Pacific,Washington,jdi
+53053,Pierce,Washington,jdi
+53053,Pierce,Washington,jdi
+53057,Skagit,Washington,jdi
+53059,Skamania,Washington,jdi
+53061,Snohomish,Washington,auto/jdi
+53063,Spokane,Washington,auto/manual
+53067,Thurston,Washington,jdi
+53067,Thurston,Washington,jdi
+53071,Walla Walla,Washington,auto/jdi
+53073,Whatcom,Washington,auto/jdi
+53075,Whitman,Washington,jdi
+53077,Yakima,Washington,jdi
+53077,Yakima,Washington,jdi
+53077,Yakima,Washington,jdi
+55005,Barron,Wisconsin,jdi
+55009,Brown,Wisconsin,auto/jdi
+55015,Calumet,Wisconsin,jdi
+55017,Chippewa,Wisconsin,jdi
+55025,Dane,Wisconsin,jdi
+55031,Douglas,Wisconsin,jdi
+55035,Eau Claire,Wisconsin,jdi
+55043,Grant,Wisconsin,auto
+55053,Jackson,Wisconsin,jdi
+55059,Kenosha,Wisconsin,auto/jdi
+55063,La Crosse,Wisconsin,jdi
+55069,Lincoln,Wisconsin,jdi
+55071,Manitowoc,Wisconsin,jdi
+55079,Milwaukee,Wisconsin,jdi
+55089,Ozaukee,Wisconsin,jdi
+55093,Pierce,Wisconsin,jdi
+55101,Racine,Wisconsin,jdi
+55113,Sawyer,Wisconsin,jdi
+55117,Sheboygan,Wisconsin,jdi
+55121,Trempealeau,Wisconsin,jdi
+55133,Waukesha,Wisconsin,jdi
+56003,Big Horn,Wyoming,jdi
+56023,Lincoln,Wyoming,auto/jdi
+56027,Niobrara,Wyoming,jdi
+56029,Park,Wyoming,jdi
+56037,Sweetwater,Wyoming,auto/jdi
