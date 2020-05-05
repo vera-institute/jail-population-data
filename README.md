@@ -22,15 +22,15 @@ For historical jail populations (1970-2017), see Vera’s (incarceration trends 
 ## Documentation
 
 The variables included in this data are
-* fips: county-level fips code
-* date: date of jail population
-* jail_population: number of people incarcerated in the jail
-* county: county, city or parish name
-* state: state name
-* urbanicity: urbanicity of county (urban county, suburban county in large metro area, county in small to mid-sized metro area, or rural county)
-* reporting_jurisdictions: name of the reporting jail jurisdictions
-* resident_population: all ages resident population of county for July 1, 2019
-* jail_incarceration_rate_per_100k: rate of jail incarceration per 100,000 residents
+* `fips`: county-level fips code
+* `date`: date of jail population
+* `jail_population`: number of people incarcerated in the jail
+* `county`: county, city or parish name
+* `state`: state name
+* `urbanicity`: urbanicity of county (urban county, suburban county in large metro area, county in small to mid-sized metro area, or rural county)
+* `reporting_jurisdictions`: name of the reporting jail jurisdictions
+* `resident_population`: all ages resident population of county for July 1, 2019
+* `jail_incarceration_rate_per_100k`: rate of jail incarceration per 100,000 residents
 
 ## Sourcing
 
