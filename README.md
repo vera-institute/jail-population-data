@@ -35,9 +35,6 @@ The variables included in this data are
 ## Sourcing
 
 Collecting this data involved the efforts of 
-
-[alphabetical list of names of people (by last name) and organizations (by first initial)]
-
 Darby Aono,
 Collin Blinder,
 Jasmine Heiss,
