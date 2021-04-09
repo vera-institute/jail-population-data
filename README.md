@@ -17,7 +17,7 @@ This data is automatically collected and pushed out to this file daily at 8pm Ea
 
 The data file is available in [CSV](https://github.com/vera-institute/jail-population-data/blob/master/jail_population.csv) format.
 
-For historical jail populations (1970-2017), see Vera’s [incarceration trends dataset](https://github.com/vera-institute/incarceration_trends).
+For historical jail populations (1970-2018), see Vera’s [incarceration trends dataset](https://github.com/vera-institute/incarceration_trends).
 
 ## Documentation
 
