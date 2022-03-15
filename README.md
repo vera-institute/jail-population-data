@@ -1,4 +1,16 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/jail-population-data/blob/master/vera-logo.png?raw=true)
+# Maintenance note: repository closing March 21, 2022
+The Vera Institute of Justice researchers in the In Our Backyards Project began publishing a public version of daily jail data for a large number of jail jurisdictions in May 2020. We are glad to see that others in the field have been able to use this data.
+
+As of March 21, 2022, this daily jail data repository will be closed for maintenance while we improve data collection and quality controls. The data will be taken down for more systematic cleaning and validation.
+
+For access to some this data in the meantime, please see the [Incarceration Trends website](https://trends.vera.org) where a quality checked version of this jail data is published with more context.
+
+We expect to publish new data files later in 2022, and they will be made available on a regular basis through the [Incarceration Trends github repository](https://github.com/vera-institute/incarceration-trends).
+
+Please contact Jacob Kang-Brown with any questions, comments, or concerns: <jkangbrown@vera.org>.
+
+-------------------------
 
 # Jail Population Data
 Public release of jurisdiction-level jail population data (January 1, 2020-present)
