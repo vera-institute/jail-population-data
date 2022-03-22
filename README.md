@@ -12,8 +12,6 @@ We expect to publish new data files later in 2022, and they will be made availab
 
 Please contact Jacob Kang-Brown with any questions, comments, or concerns: <jkangbrown@vera.org>.
 
-Public release of jurisdiction-level jail population data (January 1, 2020-present)
-
 ## Project History
 
 In response to the novel coronavirus, Vera researchers in the In Our Backyards Project have been publishing jail populations. The most recent available data for each jail jurisdiction is presented in a simple table at the Vera Institute of Justice [website](https://www.vera.org/projects/covid-19-criminal-justice-responses/covid-19-data) along with information on COVID-19 cases. This page provided access to the complete set of jail data since January 1, 2020.
